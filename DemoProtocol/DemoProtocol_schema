@@ -29,11 +29,11 @@
             {"isAbout": "../activities/voiceActivity/voiceActivity_schema",
             "variableName": "voiceActivity_schema",
             "prefLabel": {"en": "Voice Activity" }
-            },
+            }
         ],
     "order": [
 	    "../activities/Activity1/activity1_schema",
-            "../activities/voiceActivity/voiceActivity_schema",
+            "../activities/voiceActivity/voiceActivity_schema"
         ],
 		"shuffle": false,
 		"allow": [
