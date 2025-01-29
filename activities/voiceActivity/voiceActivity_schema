@@ -1,5 +1,5 @@
 {
-    "@context": "https://raw.githubusercontent.com/Veronika271/reproschema/1.0.0/contexts/reproschema",
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0/contexts/reproschema",
     "@type": "reproschema:Activity",
     "@id": "voiceActivity_schema",
     "prefLabel": "demo of all input types and widgets",
