@@ -10,7 +10,7 @@
         "en": "Please record a video of yourself to test the camera and audio components."
     },
     "ui": {
-        "inputType": "audioVideo",
+        "inputType": "audioVideoRecord",
         "readonlyValue": true
     },
     "responseOptions": {
