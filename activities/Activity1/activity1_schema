@@ -1,7 +1,7 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0/contexts/reproschema",
+    "@context": [ "https://raw.githubusercontent.com/Veronika271/reproschema/1.0.0/contexts/reproschema",
         {
-            "rl": "https://raw.githubusercontent.com/ReproNim/reproschema-library/master/activities/"
+            "rl": "https://raw.githubusercontent.com/Veronika271/reproschema-library/master/activities/"
         }
     ],
     "@type": "reproschema:Activity",
