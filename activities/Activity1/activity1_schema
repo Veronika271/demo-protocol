@@ -24,7 +24,7 @@
                 ]
                 },
                 {"isAbout": "items/audioVideo_item",
-                "variableName": "audioVideo_item_item",
+                "variableName": "audioVideo_item",
                 "isVis": true,
                 "allow": [
                     "reproschema:Skipped"
