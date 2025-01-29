@@ -1,0 +1,19 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0/contexts/reproschema",
+    "@type": "reproschema:Field",
+    "@id": "audioVideo_item",
+    "prefLabel": "AudioVideo Item",
+    "description": "Lets the user input a video from their camera (with sound).",
+    "schemaVersion": "1.0.0",
+    "version": "0.0.1",
+    "question": {
+        "en": "Please record a video of yourself to test the camera and audio components."
+    },
+    "ui": {
+        "inputType": "audioVideo",
+        "readonlyValue": true
+    },
+    "responseOptions": {
+        "valueType": "schema:VideoObject"
+    }
+}
