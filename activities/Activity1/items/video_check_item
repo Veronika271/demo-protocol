@@ -3,11 +3,12 @@
     "@type": "reproschema:Field",
     "@id": "video_check_item",
     "prefLabel": "Video Check Item",
-    "description": "Checks if the user can input a video from their camera (no sound).",
+    "description": "Lets the user check if they can input a video from their camera (no sound).",
     "schemaVersion": "1.0.0",
     "version": "0.0.1",
     "question": {
-        "en": "This is a video check item. Click on the start button to record video. Click the Play button to see your recording. If the lighting is bad, please go somewhere with better lighting and Redo, else click Continue.",
+        "en": "This is a video check. Please click the record button to record a video. If the lighting is bad, please redo the video in another room. To play the video, click Play. If the video is fine, continue."
+    },
     "ui": {
         "inputType": "videoCheck",
         "readonlyValue": true
@@ -16,6 +17,5 @@
         "valueType": "schema:VideoObject",
         "minValue": 0,
         "maxValue": 4000
-        }
     }
 }
