@@ -1,0 +1,21 @@
+{
+    "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0/contexts/reproschema",
+    "@type": "reproschema:Field",
+    "@id": "video_item",
+    "prefLabel": "Video Item",
+    "description": "Lets the user input a video from their camera (no sound).",
+    "schemaVersion": "1.0.0",
+    "version": "0.0.1",
+    "question": {
+        "en": "You are in a silent film! Please do a silly dance to see if your camera is working."
+    },
+    "ui": {
+        "inputType": "videoRecord",
+        "readonlyValue": true
+    },
+    "responseOptions": {
+        "valueType": "schema:VideoObject",
+        "minValue": 0,
+        "maxValue": 4000
+    }
+}
