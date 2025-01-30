@@ -49,8 +49,8 @@
             "items/static_item",
             "items/document_upload_item",
             "items/audioVideo_item",
-            "items/video_item",
-            "items/video_check_item"
+            "items/video_check_item",
+            "items/video_item"
             ],
         "shuffle": false,
         "allow": [
