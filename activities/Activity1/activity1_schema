@@ -23,6 +23,13 @@
                     "reproschema:Skipped"
                 ]
                 },
+                {"isAbout": "items/audioVideo_check_item",
+                "variableName": "audioVideo_check_item",
+                "isVis": true,
+                "allow": [
+                    "reproschema:Skipped"
+                ]
+                },
                 {"isAbout": "items/audioVideo_item",
                 "variableName": "audioVideo_item",
                 "isVis": true,
