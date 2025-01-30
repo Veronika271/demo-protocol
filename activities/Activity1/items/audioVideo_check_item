@@ -1,7 +1,7 @@
 {
     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/1.0.0/contexts/reproschema",
     "@type": "reproschema:Field",
-    "@id": "audioVideo_item",
+    "@id": "audioVideo_check_item",
     "prefLabel": "AudioVideo Check Item",
     "description": "Checks if the user can input a video from their camera (with sound).",
     "schemaVersion": "1.0.0",
